@@ -4,7 +4,7 @@
  Don't Copy, Learn. <br />
 
 # Piscine tips <br />
-Avoir une bonne team :p et faire partis de la STACK <br />
+Avoir une bonne team :p et faire parti de la STACK <br />
  <br />
 
  # Table of Content
@@ -22,11 +22,9 @@ Avoir une bonne team :p et faire partis de la STACK <br />
 | C07 |  [100%](./C07)| 
 | C08 | [100%](./C08) |
 | C09 |  [100%](./C09)|  
-| C11 | [50%](./C11) | 
-
- 
+| C11 | [50%](./C11) |  
 | Rush01 | [Petite erreur de "/0" dans l'assignation de witdh](./Rush/Rush01/)| 
-| Rush00 | [116%](./Rush/Rush00/) |
+| Rush00 | [116%](./Rush/Rush00/) | 
 
  
-Enjoy coding and GOOD LUCK in your piscine.
+ GOOD LUCK !
